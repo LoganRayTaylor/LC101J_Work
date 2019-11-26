@@ -1,0 +1,15 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="fileIcons" value="false" />
+    <option name="isDecoratedFolders" value="false" />
+    <option name="isPsiIcons" value="false" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="statusBarTheme" value="false" />
+    <option name="useMaterialIcons" value="false" />
+    <option name="accentColor" value="42a5f5" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="3d20b2c3:16ea6dbce41:-8000" />
+    <option name="version" value="4.5.2" />
+  </component>
+</application>
