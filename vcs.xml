@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/Stellarate-Logan/techjobs-console-java" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jamesr817/techjobs-console-java.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\lrayt\LC101_Java" />
